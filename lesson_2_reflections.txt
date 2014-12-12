@@ -14,6 +14,7 @@ organized? How would branches help?
 	Branches help where you may need to try out some different features but don't necessarily want then to be part of the general program
 
 How do the diagrams help you visualize the branch structure?
+	By showing where new branches have been created to understand what functionality that branch may have or might be missing, and to understand where we might need to make merges
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
