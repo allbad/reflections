@@ -23,9 +23,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    ?
+    Not sure what would be easier, but email or cloud storage would be hard without version control
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    ?
+    I would put changes in a separate branch if I made some changes that I wanted feedback on before merging back into the main branch
